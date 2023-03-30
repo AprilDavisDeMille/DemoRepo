@@ -42,7 +42,7 @@ background-color: rgb(204, 187, 203);
     content: "";
     height: 3px;
     width: 0;
-    background: rgb(0, 7, 139);
+    background: rgb(33, 230, 128);
     position: absolute;
     left: 0;
     bottom: -10px;
@@ -107,6 +107,6 @@ button:hover span{
     width: 100%
 }
 button:hover{
-    border: none;
+    border: rgb(8, 214, 8);
 }
 
