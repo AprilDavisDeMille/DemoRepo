@@ -6,4 +6,4 @@ Html, CSS, and Bootstrap.
 2. Need more images 
 3. I would like the video and subscribe buttons to be functionable. 
 4. Add more content. Bio, Services, Testimonials, Social Media Links, more personable, What can the user gain from working with me? Am I sharing enough of my story with them? Is this sight pleasing to look at? Inviting? 
-envious-friend.surge.sh
+https://white-roof.surge.sh/
